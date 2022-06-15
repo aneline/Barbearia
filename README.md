@@ -1,4 +1,4 @@
-Lan House Presta Serviço para Público
+Barbearia
 
 Git:(https://github.com/aneline/barbearia.git)
 
